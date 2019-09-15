@@ -39,3 +39,16 @@ func main(){
 
 ```
 En este ejemplo el método HolaMundo() se puede llamar desde cualquier objeto de tipo Hola, internamente el método nombra como ``h`` al objeto que lo llama [ejemplo online](https://gotour-es.appspot.com/#50) , esto es similar al funcionamiento de la palabra reservada ``this`` en java. La salida de este programa es ``Hola Mundo``.
+
+### Capturas
+#### V1
+![V1](/images/v1.png)
+
+#### V2
+![V2](/images/v2.png)
+
+#### V3
+![V3](/images/v3.png)
+
+#### V4
+![V4](/images/v4.png)
