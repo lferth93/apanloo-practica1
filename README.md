@@ -1,6 +1,6 @@
 ## Practica 1 de APANLOO
 
-Esta practica esta escrita en el lenguaje [Go](www.golang.org) (Golang). Go es un lenguaje de programación de sistemas semejante al lenguaje C pero con algunas características de los lenguajes de programación modernos, además de ser un lenguaje orientado a objetos aunque esta basado en estructuras y no en clases.
+Esta practica esta escrita en el lenguaje [Go](https://golang.org/) (Golang). Go es un lenguaje de programación de sistemas semejante al lenguaje C pero con algunas características de los lenguajes de programación modernos, además de ser un lenguaje orientado a objetos aunque esta basado en estructuras y no en clases.
 
 En Go el encapsulamiento se maneja a nivel de paquetes y no de clases como en otros lenguajes orientados a objetos. 
 
