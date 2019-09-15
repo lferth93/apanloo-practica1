@@ -17,7 +17,7 @@ func New() *Racional {
 //Equivalente al metodo toString en java
 func (r *Racional) String() string {
 	str := strconv.Itoa(r.numerador)
-	if r.denominador > 1 {
+	if r.denominador != 1 {
 		str += "/" + strconv.Itoa(r.denominador)
 	}
 	return str
